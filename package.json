@@ -1,0 +1,17 @@
+{
+  "name": "comments_bot",
+  "version": "1.0.0",
+  "description": "Bot for instagram live comments management",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "João Gabriel Betela da Costa",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "instagram-private-api": "^1.44.0",
+    "readline": "^1.3.0"
+  }
+}
